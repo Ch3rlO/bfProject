@@ -1,6 +1,6 @@
 # BRAIN FUCK
-**This repo is only for projects that I mead it using bf lang**
 
+**This repo is only for projects that I make it using bf lang**
 
 > E project
 
